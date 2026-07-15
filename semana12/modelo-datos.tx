@@ -1,0 +1,20 @@
+Entidad: Evento  
+
+id: identificador único del evento  
+nombre: nombre del evento  
+ubicación: lugar donde se realiza
+fecha: fecha en que se realiza el evento
+
+Entidad: Participante  
+
+id: identificador único del participante  
+evento id: referencia al evento en el que participa  
+nombre: nombre completo del participante  
+email: correo electrónico del participante
+
+Explicación:  
+
+La entidad Evento representa actividades o reuniones
+ que se organizan en fechas específicas. 
+La entidad registra a las personas que asisten o participan en cada evento,
+ vinculándolos mediante evento id.

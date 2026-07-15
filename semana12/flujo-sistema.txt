@@ -1,0 +1,11 @@
+1. Un ciudadano ingresa a la plataforma y selecciona “Crear Petición en 3 Clics”.  
+
+2. En el primer clic, ingresa su nombre y datos de contacto.  
+
+3. En el segundo clic, describe su causa o petición.  
+
+4. En el tercer clic, confirma y envía la petición, que queda registrada en la base de datos. 
+
+5. Otros ciudadanos pueden apoyar la petición con un clic, sumando apoyos.  
+
+6. Cuando la causa recibe apoyos, el sistema genera  un documento PDF con la petición y el listado de apoyos.

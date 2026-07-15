@@ -1,0 +1,8 @@
+Evento: Solicitud de soporte enviada a través del formulario en la web
+
+
+Mensaje: "Gracias por contactarnos. Nuestro equipo revisará tu solicitud
+ y te responderá pronto."
+ 
+ 
+Información que no debe enviarse: datos bancarios, contraseñas, detalles de tarjetas de crédito, información confidencial del usuario.
